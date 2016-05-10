@@ -32,7 +32,7 @@ Make use of the fantastic and delicious https://api.doughnuts.ga.  Your task is 
 
 #### Starter Code
 
-You'll find the same starter code you had in the last lesson in the `starter-code` folder. It's a basic index and some styling, along with an empty `js/app.js`.
+You can use the same [starter code](https://github.com/ATL-WDI-Curriculum/ajax-and-express) you had in the last lesson in the `starter-code` folder. It's a basic index and some styling, along with an empty `js/app.js`.
 
 #### Deliverable
 
