@@ -1,8 +1,7 @@
 console.log("it works");
 
 $(function(){
-
-	var url = 'https://api.doughnuts.ga/doughnuts/';
+  var url = 'https://api.doughnuts.ga/doughnuts/';
 
   function getDoughnuts(){
     var ajax = $.get(url, function(doughnuts){
